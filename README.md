@@ -1,4 +1,4 @@
-### NYC Citibike Analysis
+# NYC Citibike Analysis
 
 ## Overview of the statistical analysis: 
 
